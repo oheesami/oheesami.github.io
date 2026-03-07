@@ -1,0 +1,27 @@
+  img{
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                length: 100%;
+                object-fit: cover;
+                z-index: -1;
+            }
+            h1{
+              text-align: center;
+              color: white;
+              margin-top: 10px;
+            }
+            p {
+                text-align: left;
+                margin-right: 200px;
+                margin-left: 200px;
+                font-family: "Times New Roman", monospace;
+                color: white;
+            }
+            body{
+                background-color: #06402B;
+            }
+            #map {
+                text-align: center;
+            }
